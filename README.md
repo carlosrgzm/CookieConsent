@@ -1,4 +1,4 @@
-# CookieConsent
+# Cookie Consent for OctoberCMS
 Plugin for OctoberCMS to solve the EU Cookie Law
 
 Use the Cookie Consent JavaScript based solution in your OctoberCMS to adapt your web page with the EU cookie laws.
