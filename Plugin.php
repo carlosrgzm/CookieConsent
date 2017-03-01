@@ -20,7 +20,7 @@ class Plugin extends PluginBase
             'description' => 'carlosrgzm.cookieconsent::lang.strings.plugin_desc',
             'author' => 'Carlos Rodríguez',
             'icon' => 'icon-leaf',
-            'homepage' => 'https://github.com/carlosrgzm/cookies-plugin'
+            'homepage' => 'https://github.com/carlosrgzm/CookieConsent'
         ];
     }
 
