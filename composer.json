@@ -1,0 +1,8 @@
+{
+    "name": "carlosrgzm/cookieconsent",
+    "description": "Cookie Consent for OctoberCMS",
+    "type": "october-plugin",
+    "license": "MIT",
+    "homepage": "https://octobercms.com/plugin/nsrosenqvist-cookieconsent",
+    "require": {}
+}
